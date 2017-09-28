@@ -25,5 +25,4 @@ object BayAreaBikeAnalysis {
   
   def main(args: Array[String]){
     
-  
-}
+  }
