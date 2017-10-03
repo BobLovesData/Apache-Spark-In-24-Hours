@@ -1,0 +1,16 @@
+status(
+station_id:int
+bikes_available:int
+docks_available:int
+time:datetime
+)
+
+station(
+id:int
+name:name	
+lat:double	
+long:double
+dock_count:int	
+city:string
+installation_date:date
+)

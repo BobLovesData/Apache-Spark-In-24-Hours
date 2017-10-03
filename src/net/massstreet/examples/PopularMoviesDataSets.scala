@@ -1,4 +1,4 @@
-package com.sundogsoftware.spark
+package net.massstreet.examples
 
 import org.apache.spark._
 import org.apache.spark.SparkContext._
@@ -30,7 +30,7 @@ object PopularMoviesDataSets {
         movieNames += (fields(0).toInt -> fields(1))
        }
      }
-    
+      
      return movieNames
   }
  
