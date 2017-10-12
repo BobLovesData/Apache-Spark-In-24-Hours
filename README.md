@@ -1,4 +1,4 @@
-#Apache-Spark-In-24-Hours
+# Apache-Spark-In-24-Hours
 As a personal project, I'm taking all the sample Python code in Apache Spark In 24 Hours, and converting it to Scala.
 The code can be used in the Try It Yourself sections. This code runs on Apache Spark 2.2.0.
 
